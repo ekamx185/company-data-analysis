@@ -1,0 +1,11 @@
+Employee_Name,Department,Revenue_Generated,Profit,Efficiency_Score,Business_Risk,Performance_Level
+Aman,Sales,150000,105000,447.33333333333337,High Risk,Good
+Simran,Marketing,120000,78000,378.2857142857143,High Risk,Needs Improvement
+Rahul,IT,200000,145000,547.0526315789473,Low Risk,Excellent
+Priya,Finance,170000,120000,485.5675675675676,Low Risk,Good
+Karan,Sales,140000,96000,418.60674157303373,High Risk,Needs Improvement
+Neha,Marketing,130000,87000,400.88888888888886,High Risk,Needs Improvement
+Arjun,IT,210000,153000,567.5,Low Risk,Excellent
+Mehak,Finance,165000,116000,474.655737704918,Low Risk,Good
+Rohit,Sales,155000,109000,454.5414364640884,Low Risk,Good
+Anjali,IT,220000,162000,585.2820512820513,Low Risk,Excellent
